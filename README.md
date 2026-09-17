@@ -39,13 +39,15 @@ The objective was to create a visual HR reporting solution that enables stakehol
 - Employee Tenure
 - Income Analysis
 
-## Skills Demonstrated
+## Tools & Skills Demonstrated
 
-- HR Analytics
+- Microsoft Power BI
 - Data Analysis
-- KPI Reporting
+- Data Modeling
 - Dashboard Development
 - Data Visualization
+- KPI Reporting
+- HR Analytics
 - Trend Analysis
 - Business Intelligence
 
